@@ -1,2 +1,2 @@
-Green apple friend is red apple
 Red Apple is from Kashmir
+Red apple friend is green apple
